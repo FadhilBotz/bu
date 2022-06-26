@@ -5,13 +5,13 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6288271707571'] 
-global.mods = ['6288271707571'] 
-global.prems = ['6288271707571'] 
+global.owner = ['6288708231116'] 
+global.mods = ['6288708231116'] 
+global.prems = ['6288708231116'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'DillOfc ✰'
-global.numberowner = '6288271707571'
+global.numberowner = '6288708231116'
 global.instagram = 'https://instagram.com/sahrulwara_____'
 global.github = 'https://github.com/warikrr'
 global.dana = '085822347348'
@@ -30,10 +30,10 @@ global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻ArullBotz𝙼𝙳'
+global.wm = '↻DillBotz𝙼𝙳'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ArullOfc ×፝֟͜×'
-global.wm3 = 'ᯤ Arull𝙾𝙵𝙲'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 DillOfc ×፝֟͜×'
+global.wm3 = 'ᯤ Dill𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
@@ -44,7 +44,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.author = '@DillOfc✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
